@@ -1,0 +1,7 @@
+# pack-refs with: peeled fully-peeled 
+596397de4efc5bbaacbcc2dedfb58e3b8f4ed6c5 refs/remotes/origin/candlepin
+4cc010e20c583c0da4e60a7a791262b83f54d8d2 refs/remotes/origin/master
+98bb3555f5b95d607657ce5720cbc8fc16df96e8 refs/remotes/origin/seminar01
+9fa825bc75dea4d6367e48e2d7f6206fd39be091 refs/remotes/origin/seminar02
+bdf8d7562bca06d7c464cfd9d75d32fd196e9b29 refs/remotes/origin/seminar03
+af890b833fe8a7e937827e05647ec9db77144e86 refs/remotes/origin/seminar04

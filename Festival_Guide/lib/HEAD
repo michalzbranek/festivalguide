@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 bce93e727ef3acb0829e5ac6c91e249ce680a78c Michal Zbranek <blixer27@gmail.com> 1445712896 +0200	clone: from https://github.com/Zbrana/PA165_AirportManagerProject.git
+bce93e727ef3acb0829e5ac6c91e249ce680a78c f13567ad19b759c576a2a09d54a7a8b9a88e7beb Michal Zbranek <blixer27@gmail.com> 1445768662 +0100	merge refs/remotes/KStromsky/master: Merge made by the 'recursive' strategy.
+f13567ad19b759c576a2a09d54a7a8b9a88e7beb ac9d04f69f8cf921e2b933e150ae1a30c5cda547 Michal Zbranek <blixer27@gmail.com> 1445774745 +0100	commit: Destination Entity, Dao, DaoImpl
+ac9d04f69f8cf921e2b933e150ae1a30c5cda547 8fc335049975c78ed7de0eebbb02e5592f8b8fd1 Michal Zbranek <blixer27@gmail.com> 1446067473 +0100	merge refs/remotes/KStromsky/master: Merge made by the 'recursive' strategy.
+8fc335049975c78ed7de0eebbb02e5592f8b8fd1 c99448ac98d3cad284c916d5c8e4faae33742e9a Michal Zbranek <blixer27@gmail.com> 1446067586 +0100	checkout: moving from master to KStromsky/master
+c99448ac98d3cad284c916d5c8e4faae33742e9a 8fc335049975c78ed7de0eebbb02e5592f8b8fd1 Michal Zbranek <blixer27@gmail.com> 1446067601 +0100	checkout: moving from KStromsky/master to master
+8fc335049975c78ed7de0eebbb02e5592f8b8fd1 c99448ac98d3cad284c916d5c8e4faae33742e9a Michal Zbranek <blixer27@gmail.com> 1446067700 +0100	checkout: moving from master to KStromsky/master
+c99448ac98d3cad284c916d5c8e4faae33742e9a 8fc335049975c78ed7de0eebbb02e5592f8b8fd1 Michal Zbranek <blixer27@gmail.com> 1446067774 +0100	checkout: moving from KStromsky/master to master
+8fc335049975c78ed7de0eebbb02e5592f8b8fd1 52d98d697fcfe307bca1475fa7bc17c620ffba6d Michal Zbranek <blixer27@gmail.com> 1446067784 +0100	merge refs/remotes/KStromsky/master: Merge made by the 'recursive' strategy.
+52d98d697fcfe307bca1475fa7bc17c620ffba6d 3c59a309887390ab66faa8051c6fd85950ca2f26 Michal Zbranek <blixer27@gmail.com> 1446071038 +0100	commit: AirplaneTestClass
+3c59a309887390ab66faa8051c6fd85950ca2f26 9eb3b576865c079fe2f459a876d77f4198ea92a3 Michal Zbranek <blixer27@gmail.com> 1446071073 +0100	checkout: moving from master to KStromsky/master
+9eb3b576865c079fe2f459a876d77f4198ea92a3 3c59a309887390ab66faa8051c6fd85950ca2f26 Michal Zbranek <blixer27@gmail.com> 1446071082 +0100	checkout: moving from KStromsky/master to master

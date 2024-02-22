@@ -1,0 +1,22 @@
+{
+  "name": "Festival Guide",
+  "description": "Application for music all around the world.",
+  "version": "1.0",
+  "launch_path": "/html/index.html",
+  "icons": {
+    "128": "img/Icon.png"
+  },
+  "developer": {
+    "name": "Michal Zbranek",
+    "url": ""
+  },
+  "permissions": {
+        "geolocation": {
+            "description" : "Used to locate me"
+        },
+		"systemXHR": {
+		    "description": "Required to make Network calls"
+	    }
+  },
+    "default_locale": "en"
+}
